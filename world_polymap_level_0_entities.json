@@ -122,7 +122,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "AFG",
-        "SHORT_COUNTRY_NAME": "AF"
+        "SHORT_COUNTRY_CODE": "AF"
       }
     },
     {
@@ -226,7 +226,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "AGO",
-        "SHORT_COUNTRY_NAME": "AO"
+        "SHORT_COUNTRY_CODE": "AO"
       }
     },
     {
@@ -268,7 +268,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ARE",
-        "SHORT_COUNTRY_NAME": "AE"
+        "SHORT_COUNTRY_CODE": "AE"
       }
     },
     {
@@ -556,7 +556,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ARG",
-        "SHORT_COUNTRY_NAME": "AR"
+        "SHORT_COUNTRY_CODE": "AR"
       }
     },
     {
@@ -652,7 +652,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ESH",
-        "SHORT_COUNTRY_NAME": "EH"
+        "SHORT_COUNTRY_CODE": "EH"
       }
     },
     {
@@ -686,7 +686,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BDI",
-        "SHORT_COUNTRY_NAME": "BI"
+        "SHORT_COUNTRY_CODE": "BI"
       }
     },
     {
@@ -736,7 +736,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BEN",
-        "SHORT_COUNTRY_NAME": "BJ"
+        "SHORT_COUNTRY_CODE": "BJ"
       }
     },
     {
@@ -822,7 +822,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CUB",
-        "SHORT_COUNTRY_NAME": "CU"
+        "SHORT_COUNTRY_CODE": "CU"
       }
     },
     {
@@ -892,7 +892,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BFA",
-        "SHORT_COUNTRY_NAME": "BF"
+        "SHORT_COUNTRY_CODE": "BF"
       }
     },
     {
@@ -994,7 +994,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BGD",
-        "SHORT_COUNTRY_NAME": "BD"
+        "SHORT_COUNTRY_CODE": "BD"
       }
     },
     {
@@ -1094,7 +1094,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BHS",
-        "SHORT_COUNTRY_NAME": "BS"
+        "SHORT_COUNTRY_CODE": "BS"
       }
     },
     {
@@ -1124,7 +1124,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BLZ",
-        "SHORT_COUNTRY_NAME": "BZ"
+        "SHORT_COUNTRY_CODE": "BZ"
       }
     },
     {
@@ -1214,7 +1214,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BOL",
-        "SHORT_COUNTRY_NAME": "BO"
+        "SHORT_COUNTRY_CODE": "BO"
       }
     },
     {
@@ -1710,7 +1710,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BRA",
-        "SHORT_COUNTRY_NAME": "BR"
+        "SHORT_COUNTRY_CODE": "BR"
       }
     },
     {
@@ -4514,7 +4514,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GRL",
-        "SHORT_COUNTRY_NAME": "GL"
+        "SHORT_COUNTRY_CODE": "GL"
       }
     },
     {
@@ -4560,7 +4560,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BRN",
-        "SHORT_COUNTRY_NAME": "BN"
+        "SHORT_COUNTRY_CODE": "BN"
       }
     },
     {
@@ -4598,7 +4598,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BTN",
-        "SHORT_COUNTRY_NAME": "BT"
+        "SHORT_COUNTRY_CODE": "BT"
       }
     },
     {
@@ -4660,7 +4660,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BWA",
-        "SHORT_COUNTRY_NAME": "BW"
+        "SHORT_COUNTRY_CODE": "BW"
       }
     },
     {
@@ -4730,7 +4730,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CAF",
-        "SHORT_COUNTRY_NAME": "CF"
+        "SHORT_COUNTRY_CODE": "CF"
       }
     },
     {
@@ -12140,7 +12140,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CAN",
-        "SHORT_COUNTRY_NAME": "CA"
+        "SHORT_COUNTRY_CODE": "CA"
       }
     },
     {
@@ -13616,7 +13616,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CHL",
-        "SHORT_COUNTRY_NAME": "CL"
+        "SHORT_COUNTRY_CODE": "CL"
       }
     },
     {
@@ -14328,7 +14328,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CHN",
-        "SHORT_COUNTRY_NAME": "CN"
+        "SHORT_COUNTRY_CODE": "CN"
       }
     },
     {
@@ -14414,7 +14414,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CMR",
-        "SHORT_COUNTRY_NAME": "CM"
+        "SHORT_COUNTRY_CODE": "CM"
       }
     },
     {
@@ -14770,7 +14770,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SJM",
-        "SHORT_COUNTRY_NAME": "SJ"
+        "SHORT_COUNTRY_CODE": "SJ"
       }
     },
     {
@@ -14892,7 +14892,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "COL",
-        "SHORT_COUNTRY_NAME": "CO"
+        "SHORT_COUNTRY_CODE": "CO"
       }
     },
     {
@@ -14938,7 +14938,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "FRO",
-        "SHORT_COUNTRY_NAME": "FO"
+        "SHORT_COUNTRY_CODE": "FO"
       }
     },
     {
@@ -15042,7 +15042,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "FLK",
-        "SHORT_COUNTRY_NAME": "FK"
+        "SHORT_COUNTRY_CODE": "FK"
       }
     },
     {
@@ -15088,7 +15088,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CRI",
-        "SHORT_COUNTRY_NAME": "CR"
+        "SHORT_COUNTRY_CODE": "CR"
       }
     },
     {
@@ -15630,7 +15630,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "AUS",
-        "SHORT_COUNTRY_NAME": "AU"
+        "SHORT_COUNTRY_CODE": "AU"
       }
     },
     {
@@ -15760,7 +15760,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "UZB",
-        "SHORT_COUNTRY_NAME": "UZ"
+        "SHORT_COUNTRY_CODE": "UZ"
       }
     },
     {
@@ -15806,7 +15806,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "DJI",
-        "SHORT_COUNTRY_NAME": "DJ"
+        "SHORT_COUNTRY_CODE": "DJ"
       }
     },
     {
@@ -15884,7 +15884,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TJK",
-        "SHORT_COUNTRY_NAME": "TJ"
+        "SHORT_COUNTRY_CODE": "TJ"
       }
     },
     {
@@ -15930,7 +15930,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "DOM",
-        "SHORT_COUNTRY_NAME": "DO"
+        "SHORT_COUNTRY_CODE": "DO"
       }
     },
     {
@@ -16032,7 +16032,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "DZA",
-        "SHORT_COUNTRY_NAME": "DZ"
+        "SHORT_COUNTRY_CODE": "DZ"
       }
     },
     {
@@ -16098,7 +16098,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ECU",
-        "SHORT_COUNTRY_NAME": "EC"
+        "SHORT_COUNTRY_CODE": "EC"
       }
     },
     {
@@ -16226,7 +16226,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "EGY",
-        "SHORT_COUNTRY_NAME": "EG"
+        "SHORT_COUNTRY_CODE": "EG"
       }
     },
     {
@@ -16284,7 +16284,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ERI",
-        "SHORT_COUNTRY_NAME": "ER"
+        "SHORT_COUNTRY_CODE": "ER"
       }
     },
     {
@@ -16374,7 +16374,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ETH",
-        "SHORT_COUNTRY_NAME": "ET"
+        "SHORT_COUNTRY_CODE": "ET"
       }
     },
     {
@@ -16404,7 +16404,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "FJI",
-        "SHORT_COUNTRY_NAME": "FJ"
+        "SHORT_COUNTRY_CODE": "FJ"
       }
     },
     {
@@ -16502,7 +16502,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GAB",
-        "SHORT_COUNTRY_NAME": "GA"
+        "SHORT_COUNTRY_CODE": "GA"
       }
     },
     {
@@ -16556,7 +16556,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GHA",
-        "SHORT_COUNTRY_NAME": "GH"
+        "SHORT_COUNTRY_CODE": "GH"
       }
     },
     {
@@ -16666,7 +16666,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GIN",
-        "SHORT_COUNTRY_NAME": "GN"
+        "SHORT_COUNTRY_CODE": "GN"
       }
     },
     {
@@ -16748,7 +16748,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KGZ",
-        "SHORT_COUNTRY_NAME": "KG"
+        "SHORT_COUNTRY_CODE": "KG"
       }
     },
     {
@@ -16816,7 +16816,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GMB",
-        "SHORT_COUNTRY_NAME": "GM"
+        "SHORT_COUNTRY_CODE": "GM"
       }
     },
     {
@@ -16870,7 +16870,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GNB",
-        "SHORT_COUNTRY_NAME": "GW"
+        "SHORT_COUNTRY_CODE": "GW"
       }
     },
     {
@@ -16904,7 +16904,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GNQ",
-        "SHORT_COUNTRY_NAME": "GQ"
+        "SHORT_COUNTRY_CODE": "GQ"
       }
     },
     {
@@ -17120,7 +17120,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "UKR",
-        "SHORT_COUNTRY_NAME": "UA"
+        "SHORT_COUNTRY_CODE": "UA"
       }
     },
     {
@@ -17182,7 +17182,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GTM",
-        "SHORT_COUNTRY_NAME": "GT"
+        "SHORT_COUNTRY_CODE": "GT"
       }
     },
     {
@@ -17224,7 +17224,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GUF",
-        "SHORT_COUNTRY_NAME": "GF"
+        "SHORT_COUNTRY_CODE": "GF"
       }
     },
     {
@@ -17432,7 +17432,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TUR",
-        "SHORT_COUNTRY_NAME": "TR"
+        "SHORT_COUNTRY_CODE": "TR"
       }
     },
     {
@@ -17494,7 +17494,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GUY",
-        "SHORT_COUNTRY_NAME": "GY"
+        "SHORT_COUNTRY_CODE": "GY"
       }
     },
     {
@@ -17560,7 +17560,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "HND",
-        "SHORT_COUNTRY_NAME": "HN"
+        "SHORT_COUNTRY_CODE": "HN"
       }
     },
     {
@@ -17640,7 +17640,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "HTI",
-        "SHORT_COUNTRY_NAME": "HT"
+        "SHORT_COUNTRY_CODE": "HT"
       }
     },
     {
@@ -18574,7 +18574,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "IDN",
-        "SHORT_COUNTRY_NAME": "ID"
+        "SHORT_COUNTRY_CODE": "ID"
       }
     },
     {
@@ -18862,7 +18862,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "IND",
-        "SHORT_COUNTRY_NAME": "IN"
+        "SHORT_COUNTRY_CODE": "IN"
       }
     },
     {
@@ -19020,7 +19020,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "IRN",
-        "SHORT_COUNTRY_NAME": "IR"
+        "SHORT_COUNTRY_CODE": "IR"
       }
     },
     {
@@ -19106,7 +19106,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "IRQ",
-        "SHORT_COUNTRY_NAME": "IQ"
+        "SHORT_COUNTRY_CODE": "IQ"
       }
     },
     {
@@ -19140,7 +19140,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "JAM",
-        "SHORT_COUNTRY_NAME": "JM"
+        "SHORT_COUNTRY_CODE": "JM"
       }
     },
     {
@@ -19202,7 +19202,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "JOR",
-        "SHORT_COUNTRY_NAME": "JO"
+        "SHORT_COUNTRY_CODE": "JO"
       }
     },
     {
@@ -19526,7 +19526,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "JPN",
-        "SHORT_COUNTRY_NAME": "JP"
+        "SHORT_COUNTRY_CODE": "JP"
       }
     },
     {
@@ -19588,7 +19588,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KEN",
-        "SHORT_COUNTRY_NAME": "KE"
+        "SHORT_COUNTRY_CODE": "KE"
       }
     },
     {
@@ -19662,7 +19662,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KHM",
-        "SHORT_COUNTRY_NAME": "KH"
+        "SHORT_COUNTRY_CODE": "KH"
       }
     },
     {
@@ -19822,7 +19822,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TKM",
-        "SHORT_COUNTRY_NAME": "TM"
+        "SHORT_COUNTRY_CODE": "TM"
       }
     },
     {
@@ -19912,7 +19912,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KOR",
-        "SHORT_COUNTRY_NAME": "KR"
+        "SHORT_COUNTRY_CODE": "KR"
       }
     },
     {
@@ -19958,7 +19958,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KWT",
-        "SHORT_COUNTRY_NAME": "KW"
+        "SHORT_COUNTRY_CODE": "KW"
       }
     },
     {
@@ -20056,7 +20056,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LAO",
-        "SHORT_COUNTRY_NAME": "LA"
+        "SHORT_COUNTRY_CODE": "LA"
       }
     },
     {
@@ -20090,7 +20090,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LBN",
-        "SHORT_COUNTRY_NAME": "LB"
+        "SHORT_COUNTRY_CODE": "LB"
       }
     },
     {
@@ -20132,7 +20132,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LBR",
-        "SHORT_COUNTRY_NAME": "LR"
+        "SHORT_COUNTRY_CODE": "LR"
       }
     },
     {
@@ -20206,7 +20206,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LBY",
-        "SHORT_COUNTRY_NAME": "LY"
+        "SHORT_COUNTRY_CODE": "LY"
       }
     },
     {
@@ -20502,7 +20502,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SWE",
-        "SHORT_COUNTRY_NAME": "SE"
+        "SHORT_COUNTRY_CODE": "SE"
       }
     },
     {
@@ -20544,7 +20544,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LKA",
-        "SHORT_COUNTRY_NAME": "LK"
+        "SHORT_COUNTRY_CODE": "LK"
       }
     },
     {
@@ -20578,7 +20578,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LSO",
-        "SHORT_COUNTRY_NAME": "LS"
+        "SHORT_COUNTRY_CODE": "LS"
       }
     },
     {
@@ -20652,7 +20652,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MAR",
-        "SHORT_COUNTRY_NAME": "MA"
+        "SHORT_COUNTRY_CODE": "MA"
       }
     },
     {
@@ -20764,7 +20764,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MDG",
-        "SHORT_COUNTRY_NAME": "MG"
+        "SHORT_COUNTRY_CODE": "MG"
       }
     },
     {
@@ -21006,7 +21006,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MEX",
-        "SHORT_COUNTRY_NAME": "MX"
+        "SHORT_COUNTRY_CODE": "MX"
       }
     },
     {
@@ -21116,7 +21116,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MLI",
-        "SHORT_COUNTRY_NAME": "ML"
+        "SHORT_COUNTRY_CODE": "ML"
       }
     },
     {
@@ -21372,7 +21372,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MMR",
-        "SHORT_COUNTRY_NAME": "MM"
+        "SHORT_COUNTRY_CODE": "MM"
       }
     },
     {
@@ -21506,7 +21506,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MNG",
-        "SHORT_COUNTRY_NAME": "MN"
+        "SHORT_COUNTRY_CODE": "MN"
       }
     },
     {
@@ -21578,7 +21578,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SVN",
-        "SHORT_COUNTRY_NAME": "SI"
+        "SHORT_COUNTRY_CODE": "SI"
       }
     },
     {
@@ -21696,7 +21696,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MOZ",
-        "SHORT_COUNTRY_NAME": "MZ"
+        "SHORT_COUNTRY_CODE": "MZ"
       }
     },
     {
@@ -21798,7 +21798,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MRT",
-        "SHORT_COUNTRY_NAME": "MR"
+        "SHORT_COUNTRY_CODE": "MR"
       }
     },
     {
@@ -21852,7 +21852,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SVK",
-        "SHORT_COUNTRY_NAME": "SK"
+        "SHORT_COUNTRY_CODE": "SK"
       }
     },
     {
@@ -21922,7 +21922,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SRB",
-        "SHORT_COUNTRY_NAME": "RS"
+        "SHORT_COUNTRY_CODE": "RS"
       }
     },
     {
@@ -21984,7 +21984,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MWI",
-        "SHORT_COUNTRY_NAME": "MW"
+        "SHORT_COUNTRY_CODE": "MW"
       }
     },
     {
@@ -22144,7 +22144,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MYS",
-        "SHORT_COUNTRY_NAME": "MY"
+        "SHORT_COUNTRY_CODE": "MY"
       }
     },
     {
@@ -22206,7 +22206,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NAM",
-        "SHORT_COUNTRY_NAME": "NA"
+        "SHORT_COUNTRY_CODE": "NA"
       }
     },
     {
@@ -22236,7 +22236,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NCL",
-        "SHORT_COUNTRY_NAME": "NC"
+        "SHORT_COUNTRY_CODE": "NC"
       }
     },
     {
@@ -22310,7 +22310,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NER",
-        "SHORT_COUNTRY_NAME": "NE"
+        "SHORT_COUNTRY_CODE": "NE"
       }
     },
     {
@@ -22408,7 +22408,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NGA",
-        "SHORT_COUNTRY_NAME": "NG"
+        "SHORT_COUNTRY_CODE": "NG"
       }
     },
     {
@@ -22450,7 +22450,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NIC",
-        "SHORT_COUNTRY_NAME": "NI"
+        "SHORT_COUNTRY_CODE": "NI"
       }
     },
     {
@@ -22504,7 +22504,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NPL",
-        "SHORT_COUNTRY_NAME": "NP"
+        "SHORT_COUNTRY_CODE": "NP"
       }
     },
     {
@@ -22710,7 +22710,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NZL",
-        "SHORT_COUNTRY_NAME": "NZ"
+        "SHORT_COUNTRY_CODE": "NZ"
       }
     },
     {
@@ -22764,7 +22764,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "OMN",
-        "SHORT_COUNTRY_NAME": "OM"
+        "SHORT_COUNTRY_CODE": "OM"
       }
     },
     {
@@ -22890,7 +22890,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PAK",
-        "SHORT_COUNTRY_NAME": "PK"
+        "SHORT_COUNTRY_CODE": "PK"
       }
     },
     {
@@ -22964,7 +22964,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PAN",
-        "SHORT_COUNTRY_NAME": "PA"
+        "SHORT_COUNTRY_CODE": "PA"
       }
     },
     {
@@ -23074,7 +23074,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PER",
-        "SHORT_COUNTRY_NAME": "PE"
+        "SHORT_COUNTRY_CODE": "PE"
       }
     },
     {
@@ -23518,7 +23518,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PHL",
-        "SHORT_COUNTRY_NAME": "PH"
+        "SHORT_COUNTRY_CODE": "PH"
       }
     },
     {
@@ -27846,7 +27846,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "RUS",
-        "SHORT_COUNTRY_NAME": "RU"
+        "SHORT_COUNTRY_CODE": "RU"
       }
     },
     {
@@ -27928,7 +27928,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PRK",
-        "SHORT_COUNTRY_NAME": "KP"
+        "SHORT_COUNTRY_CODE": "KP"
       }
     },
     {
@@ -27998,7 +27998,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PRY",
-        "SHORT_COUNTRY_NAME": "PY"
+        "SHORT_COUNTRY_CODE": "PY"
       }
     },
     {
@@ -28032,7 +28032,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PSE",
-        "SHORT_COUNTRY_NAME": "PS"
+        "SHORT_COUNTRY_CODE": "PS"
       }
     },
     {
@@ -28102,7 +28102,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ROU",
-        "SHORT_COUNTRY_NAME": "RO"
+        "SHORT_COUNTRY_CODE": "RO"
       }
     },
     {
@@ -28140,7 +28140,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "QAT",
-        "SHORT_COUNTRY_NAME": "QA"
+        "SHORT_COUNTRY_CODE": "QA"
       }
     },
     {
@@ -28178,7 +28178,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "RWA",
-        "SHORT_COUNTRY_NAME": "RW"
+        "SHORT_COUNTRY_CODE": "RW"
       }
     },
     {
@@ -28308,7 +28308,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SAU",
-        "SHORT_COUNTRY_NAME": "SA"
+        "SHORT_COUNTRY_CODE": "SA"
       }
     },
     {
@@ -28422,7 +28422,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SDN",
-        "SHORT_COUNTRY_NAME": "SD"
+        "SHORT_COUNTRY_CODE": "SD"
       }
     },
     {
@@ -28536,7 +28536,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SEN",
-        "SHORT_COUNTRY_NAME": "SN"
+        "SHORT_COUNTRY_CODE": "SN"
       }
     },
     {
@@ -28566,7 +28566,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SLB",
-        "SHORT_COUNTRY_NAME": "SB"
+        "SHORT_COUNTRY_CODE": "SB"
       }
     },
     {
@@ -28632,7 +28632,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SLE",
-        "SHORT_COUNTRY_NAME": "SL"
+        "SHORT_COUNTRY_CODE": "SL"
       }
     },
     {
@@ -28670,7 +28670,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SLV",
-        "SHORT_COUNTRY_NAME": "SV"
+        "SHORT_COUNTRY_CODE": "SV"
       }
     },
     {
@@ -28736,7 +28736,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SOM",
-        "SHORT_COUNTRY_NAME": "SO"
+        "SHORT_COUNTRY_CODE": "SO"
       }
     },
     {
@@ -28818,7 +28818,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SSD",
-        "SHORT_COUNTRY_NAME": "SS"
+        "SHORT_COUNTRY_CODE": "SS"
       }
     },
     {
@@ -28864,7 +28864,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PRT",
-        "SHORT_COUNTRY_NAME": "PT"
+        "SHORT_COUNTRY_CODE": "PT"
       }
     },
     {
@@ -28910,7 +28910,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SUR",
-        "SHORT_COUNTRY_NAME": "SR"
+        "SHORT_COUNTRY_CODE": "SR"
       }
     },
     {
@@ -28944,7 +28944,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SWZ",
-        "SHORT_COUNTRY_NAME": "SZ"
+        "SHORT_COUNTRY_CODE": "SZ"
       }
     },
     {
@@ -29010,7 +29010,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "SYR",
-        "SHORT_COUNTRY_NAME": "SY"
+        "SHORT_COUNTRY_CODE": "SY"
       }
     },
     {
@@ -29096,7 +29096,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "POL",
-        "SHORT_COUNTRY_NAME": "PL"
+        "SHORT_COUNTRY_CODE": "PL"
       }
     },
     {
@@ -29178,7 +29178,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TCD",
-        "SHORT_COUNTRY_NAME": "TD"
+        "SHORT_COUNTRY_CODE": "TD"
       }
     },
     {
@@ -29224,7 +29224,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TGO",
-        "SHORT_COUNTRY_NAME": "TG"
+        "SHORT_COUNTRY_CODE": "TG"
       }
     },
     {
@@ -29364,7 +29364,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "THA",
-        "SHORT_COUNTRY_NAME": "TH"
+        "SHORT_COUNTRY_CODE": "TH"
       }
     },
     {
@@ -29394,7 +29394,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TLS",
-        "SHORT_COUNTRY_NAME": "TL"
+        "SHORT_COUNTRY_CODE": "TL"
       }
     },
     {
@@ -30780,7 +30780,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NOR",
-        "SHORT_COUNTRY_NAME": "NO"
+        "SHORT_COUNTRY_CODE": "NO"
       }
     },
     {
@@ -30846,7 +30846,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TUN",
-        "SHORT_COUNTRY_NAME": "TN"
+        "SHORT_COUNTRY_CODE": "TN"
       }
     },
     {
@@ -30924,7 +30924,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "TZA",
-        "SHORT_COUNTRY_NAME": "TZ"
+        "SHORT_COUNTRY_CODE": "TZ"
       }
     },
     {
@@ -30974,7 +30974,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "UGA",
-        "SHORT_COUNTRY_NAME": "UG"
+        "SHORT_COUNTRY_CODE": "UG"
       }
     },
     {
@@ -31040,7 +31040,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "URY",
-        "SHORT_COUNTRY_NAME": "UY"
+        "SHORT_COUNTRY_CODE": "UY"
       }
     },
     {
@@ -33274,7 +33274,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "USA",
-        "SHORT_COUNTRY_NAME": "US"
+        "SHORT_COUNTRY_CODE": "US"
       }
     },
     {
@@ -33408,7 +33408,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "NLD",
-        "SHORT_COUNTRY_NAME": "NL"
+        "SHORT_COUNTRY_CODE": "NL"
       }
     },
     {
@@ -33588,7 +33588,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "VEN",
-        "SHORT_COUNTRY_NAME": "VE"
+        "SHORT_COUNTRY_CODE": "VE"
       }
     },
     {
@@ -33726,7 +33726,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "VNM",
-        "SHORT_COUNTRY_NAME": "VN"
+        "SHORT_COUNTRY_CODE": "VN"
       }
     },
     {
@@ -33756,7 +33756,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "VUT",
-        "SHORT_COUNTRY_NAME": "VU"
+        "SHORT_COUNTRY_CODE": "VU"
       }
     },
     {
@@ -33794,7 +33794,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MNE",
-        "SHORT_COUNTRY_NAME": "ME"
+        "SHORT_COUNTRY_CODE": "ME"
       }
     },
     {
@@ -33856,7 +33856,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "YEM",
-        "SHORT_COUNTRY_NAME": "YE"
+        "SHORT_COUNTRY_CODE": "YE"
       }
     },
     {
@@ -33984,7 +33984,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ZAF",
-        "SHORT_COUNTRY_NAME": "ZA"
+        "SHORT_COUNTRY_CODE": "ZA"
       }
     },
     {
@@ -34078,7 +34078,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ZMB",
-        "SHORT_COUNTRY_NAME": "ZM"
+        "SHORT_COUNTRY_CODE": "ZM"
       }
     },
     {
@@ -34124,7 +34124,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ZWE",
-        "SHORT_COUNTRY_NAME": "ZW"
+        "SHORT_COUNTRY_CODE": "ZW"
       }
     },
     {
@@ -34266,7 +34266,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "COD",
-        "SHORT_COUNTRY_NAME": "CD"
+        "SHORT_COUNTRY_CODE": "CD"
       }
     },
     {
@@ -34352,7 +34352,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "COG",
-        "SHORT_COUNTRY_NAME": "CG"
+        "SHORT_COUNTRY_CODE": "CG"
       }
     },
     {
@@ -34604,7 +34604,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "PNG",
-        "SHORT_COUNTRY_NAME": "PG"
+        "SHORT_COUNTRY_CODE": "PG"
       }
     },
     {
@@ -34666,7 +34666,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CIV",
-        "SHORT_COUNTRY_NAME": "CI"
+        "SHORT_COUNTRY_CODE": "CI"
       }
     },
     {
@@ -34716,7 +34716,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ALB",
-        "SHORT_COUNTRY_NAME": "AL"
+        "SHORT_COUNTRY_CODE": "AL"
       }
     },
     {
@@ -34778,7 +34778,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ARM",
-        "SHORT_COUNTRY_NAME": "AM"
+        "SHORT_COUNTRY_CODE": "AM"
       }
     },
     {
@@ -34836,7 +34836,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "AUT",
-        "SHORT_COUNTRY_NAME": "AT"
+        "SHORT_COUNTRY_CODE": "AT"
       }
     },
     {
@@ -34916,7 +34916,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "AZE",
-        "SHORT_COUNTRY_NAME": "AZ"
+        "SHORT_COUNTRY_CODE": "AZ"
       }
     },
     {
@@ -34966,7 +34966,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BEL",
-        "SHORT_COUNTRY_NAME": "BE"
+        "SHORT_COUNTRY_CODE": "BE"
       }
     },
     {
@@ -35032,7 +35032,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BGR",
-        "SHORT_COUNTRY_NAME": "BG"
+        "SHORT_COUNTRY_CODE": "BG"
       }
     },
     {
@@ -35106,7 +35106,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BIH",
-        "SHORT_COUNTRY_NAME": "BA"
+        "SHORT_COUNTRY_CODE": "BA"
       }
     },
     {
@@ -35172,7 +35172,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "BLR",
-        "SHORT_COUNTRY_NAME": "BY"
+        "SHORT_COUNTRY_CODE": "BY"
       }
     },
     {
@@ -35234,7 +35234,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CHE",
-        "SHORT_COUNTRY_NAME": "CH"
+        "SHORT_COUNTRY_CODE": "CH"
       }
     },
     {
@@ -35264,7 +35264,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CYP",
-        "SHORT_COUNTRY_NAME": "CY"
+        "SHORT_COUNTRY_CODE": "CY"
       }
     },
     {
@@ -35322,7 +35322,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "CZE",
-        "SHORT_COUNTRY_NAME": "CZ"
+        "SHORT_COUNTRY_CODE": "CZ"
       }
     },
     {
@@ -35480,7 +35480,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "DEU",
-        "SHORT_COUNTRY_NAME": "DE"
+        "SHORT_COUNTRY_CODE": "DE"
       }
     },
     {
@@ -35700,7 +35700,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "DNK",
-        "SHORT_COUNTRY_NAME": "DK"
+        "SHORT_COUNTRY_CODE": "DK"
       }
     },
     {
@@ -35790,7 +35790,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ESP",
-        "SHORT_COUNTRY_NAME": "ES"
+        "SHORT_COUNTRY_CODE": "ES"
       }
     },
     {
@@ -35894,7 +35894,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "EST",
-        "SHORT_COUNTRY_NAME": "EE"
+        "SHORT_COUNTRY_CODE": "EE"
       }
     },
     {
@@ -36116,7 +36116,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "FIN",
-        "SHORT_COUNTRY_NAME": "FI"
+        "SHORT_COUNTRY_CODE": "FI"
       }
     },
     {
@@ -36312,7 +36312,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "FRA",
-        "SHORT_COUNTRY_NAME": "FR"
+        "SHORT_COUNTRY_CODE": "FR"
       }
     },
     {
@@ -36802,7 +36802,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GBR",
-        "SHORT_COUNTRY_NAME": "GB"
+        "SHORT_COUNTRY_CODE": "GB"
       }
     },
     {
@@ -36852,7 +36852,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GEO",
-        "SHORT_COUNTRY_NAME": "GE"
+        "SHORT_COUNTRY_CODE": "GE"
       }
     },
     {
@@ -37144,7 +37144,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "GRC",
-        "SHORT_COUNTRY_NAME": "GR"
+        "SHORT_COUNTRY_CODE": "GR"
       }
     },
     {
@@ -37316,7 +37316,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "HRV",
-        "SHORT_COUNTRY_NAME": "HR"
+        "SHORT_COUNTRY_CODE": "HR"
       }
     },
     {
@@ -37386,7 +37386,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "HUN",
-        "SHORT_COUNTRY_NAME": "HU"
+        "SHORT_COUNTRY_CODE": "HU"
       }
     },
     {
@@ -37510,7 +37510,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "IRL",
-        "SHORT_COUNTRY_NAME": "IE"
+        "SHORT_COUNTRY_CODE": "IE"
       }
     },
     {
@@ -37712,7 +37712,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ISL",
-        "SHORT_COUNTRY_NAME": "IS"
+        "SHORT_COUNTRY_CODE": "IS"
       }
     },
     {
@@ -37774,7 +37774,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ISR",
-        "SHORT_COUNTRY_NAME": "IL"
+        "SHORT_COUNTRY_CODE": "IL"
       }
     },
     {
@@ -37990,7 +37990,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "ITA",
-        "SHORT_COUNTRY_NAME": "IT"
+        "SHORT_COUNTRY_CODE": "IT"
       }
     },
     {
@@ -38284,7 +38284,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "KAZ",
-        "SHORT_COUNTRY_NAME": "KZ"
+        "SHORT_COUNTRY_CODE": "KZ"
       }
     },
     {
@@ -38346,7 +38346,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LTU",
-        "SHORT_COUNTRY_NAME": "LT"
+        "SHORT_COUNTRY_CODE": "LT"
       }
     },
     {
@@ -38376,7 +38376,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LUX",
-        "SHORT_COUNTRY_NAME": "LU"
+        "SHORT_COUNTRY_CODE": "LU"
       }
     },
     {
@@ -38430,7 +38430,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "LVA",
-        "SHORT_COUNTRY_NAME": "LV"
+        "SHORT_COUNTRY_CODE": "LV"
       }
     },
     {
@@ -38476,7 +38476,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MDA",
-        "SHORT_COUNTRY_NAME": "MD"
+        "SHORT_COUNTRY_CODE": "MD"
       }
     },
     {
@@ -38518,7 +38518,7 @@
       },
       "properties": {
         "COUNTRY_CODE": "MKD",
-        "SHORT_COUNTRY_NAME": "MK"
+        "SHORT_COUNTRY_CODE": "MK"
       }
     }
   ]
