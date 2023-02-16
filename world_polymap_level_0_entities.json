@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "CODE": "AFG"
+        "COUNTRY_CODE": "AFG"
       }
     },
     {
@@ -83,7 +83,7 @@
         ]
       },
       "properties": {
-        "CODE": "AGO"
+        "COUNTRY_CODE": "AGO"
       }
     },
     {
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "CODE": "ARE"
+        "COUNTRY_CODE": "ARE"
       }
     },
     {
@@ -192,7 +192,7 @@
         ]
       },
       "properties": {
-        "CODE": "ARG"
+        "COUNTRY_CODE": "ARG"
       }
     },
     {
@@ -230,7 +230,7 @@
         ]
       },
       "properties": {
-        "CODE": "ESH"
+        "COUNTRY_CODE": "ESH"
       }
     },
     {
@@ -248,7 +248,7 @@
         ]
       },
       "properties": {
-        "CODE": "BDI"
+        "COUNTRY_CODE": "BDI"
       }
     },
     {
@@ -270,7 +270,7 @@
         ]
       },
       "properties": {
-        "CODE": "BEN"
+        "COUNTRY_CODE": "BEN"
       }
     },
     {
@@ -301,7 +301,7 @@
         ]
       },
       "properties": {
-        "CODE": "CUB"
+        "COUNTRY_CODE": "CUB"
       }
     },
     {
@@ -328,7 +328,7 @@
         ]
       },
       "properties": {
-        "CODE": "BFA"
+        "COUNTRY_CODE": "BFA"
       }
     },
     {
@@ -363,7 +363,7 @@
         ]
       },
       "properties": {
-        "CODE": "BGD"
+        "COUNTRY_CODE": "BGD"
       }
     },
     {
@@ -408,7 +408,7 @@
         ]
       },
       "properties": {
-        "CODE": "BHS"
+        "COUNTRY_CODE": "BHS"
       }
     },
     {
@@ -425,7 +425,7 @@
         ]
       },
       "properties": {
-        "CODE": "BLZ"
+        "COUNTRY_CODE": "BLZ"
       }
     },
     {
@@ -457,7 +457,7 @@
         ]
       },
       "properties": {
-        "CODE": "BOL"
+        "COUNTRY_CODE": "BOL"
       }
     },
     {
@@ -604,7 +604,7 @@
         ]
       },
       "properties": {
-        "CODE": "BRA"
+        "COUNTRY_CODE": "BRA"
       }
     },
     {
@@ -1424,7 +1424,7 @@
         ]
       },
       "properties": {
-        "CODE": "GRL"
+        "COUNTRY_CODE": "GRL"
       }
     },
     {
@@ -1445,7 +1445,7 @@
         ]
       },
       "properties": {
-        "CODE": "BRN"
+        "COUNTRY_CODE": "BRN"
       }
     },
     {
@@ -1464,7 +1464,7 @@
         ]
       },
       "properties": {
-        "CODE": "BTN"
+        "COUNTRY_CODE": "BTN"
       }
     },
     {
@@ -1489,7 +1489,7 @@
         ]
       },
       "properties": {
-        "CODE": "BWA"
+        "COUNTRY_CODE": "BWA"
       }
     },
     {
@@ -1516,7 +1516,7 @@
         ]
       },
       "properties": {
-        "CODE": "CAF"
+        "COUNTRY_CODE": "CAF"
       }
     },
     {
@@ -3681,7 +3681,7 @@
         ]
       },
       "properties": {
-        "CODE": "CAN"
+        "COUNTRY_CODE": "CAN"
       }
     },
     {
@@ -4148,7 +4148,7 @@
         ]
       },
       "properties": {
-        "CODE": "CHL"
+        "COUNTRY_CODE": "CHL"
       }
     },
     {
@@ -4349,7 +4349,7 @@
         ]
       },
       "properties": {
-        "CODE": "CHN"
+        "COUNTRY_CODE": "CHN"
       }
     },
     {
@@ -4380,7 +4380,7 @@
         ]
       },
       "properties": {
-        "CODE": "CMR"
+        "COUNTRY_CODE": "CMR"
       }
     },
     {
@@ -4486,7 +4486,7 @@
         ]
       },
       "properties": {
-        "CODE": "SJM"
+        "COUNTRY_CODE": "SJM"
       }
     },
     {
@@ -4526,7 +4526,7 @@
         ]
       },
       "properties": {
-        "CODE": "COL"
+        "COUNTRY_CODE": "COL"
       }
     },
     {
@@ -4547,7 +4547,7 @@
         ]
       },
       "properties": {
-        "CODE": "FRO"
+        "COUNTRY_CODE": "FRO"
       }
     },
     {
@@ -4587,7 +4587,7 @@
         ]
       },
       "properties": {
-        "CODE": "FLK"
+        "COUNTRY_CODE": "FLK"
       }
     },
     {
@@ -4608,7 +4608,7 @@
         ]
       },
       "properties": {
-        "CODE": "CRI"
+        "COUNTRY_CODE": "CRI"
       }
     },
     {
@@ -4771,7 +4771,7 @@
         ]
       },
       "properties": {
-        "CODE": "AUS"
+        "COUNTRY_CODE": "AUS"
       }
     },
     {
@@ -4813,7 +4813,7 @@
         ]
       },
       "properties": {
-        "CODE": "UZB"
+        "COUNTRY_CODE": "UZB"
       }
     },
     {
@@ -4834,7 +4834,7 @@
         ]
       },
       "properties": {
-        "CODE": "DJI"
+        "COUNTRY_CODE": "DJI"
       }
     },
     {
@@ -4863,7 +4863,7 @@
         ]
       },
       "properties": {
-        "CODE": "TJK"
+        "COUNTRY_CODE": "TJK"
       }
     },
     {
@@ -4884,7 +4884,7 @@
         ]
       },
       "properties": {
-        "CODE": "DOM"
+        "COUNTRY_CODE": "DOM"
       }
     },
     {
@@ -4919,7 +4919,7 @@
         ]
       },
       "properties": {
-        "CODE": "DZA"
+        "COUNTRY_CODE": "DZA"
       }
     },
     {
@@ -4945,7 +4945,7 @@
         ]
       },
       "properties": {
-        "CODE": "ECU"
+        "COUNTRY_CODE": "ECU"
       }
     },
     {
@@ -4988,7 +4988,7 @@
         ]
       },
       "properties": {
-        "CODE": "EGY"
+        "COUNTRY_CODE": "EGY"
       }
     },
     {
@@ -5012,7 +5012,7 @@
         ]
       },
       "properties": {
-        "CODE": "ERI"
+        "COUNTRY_CODE": "ERI"
       }
     },
     {
@@ -5044,7 +5044,7 @@
         ]
       },
       "properties": {
-        "CODE": "ETH"
+        "COUNTRY_CODE": "ETH"
       }
     },
     {
@@ -5061,7 +5061,7 @@
         ]
       },
       "properties": {
-        "CODE": "FJI"
+        "COUNTRY_CODE": "FJI"
       }
     },
     {
@@ -5095,7 +5095,7 @@
         ]
       },
       "properties": {
-        "CODE": "GAB"
+        "COUNTRY_CODE": "GAB"
       }
     },
     {
@@ -5118,7 +5118,7 @@
         ]
       },
       "properties": {
-        "CODE": "GHA"
+        "COUNTRY_CODE": "GHA"
       }
     },
     {
@@ -5155,7 +5155,7 @@
         ]
       },
       "properties": {
-        "CODE": "GIN"
+        "COUNTRY_CODE": "GIN"
       }
     },
     {
@@ -5185,7 +5185,7 @@
         ]
       },
       "properties": {
-        "CODE": "KGZ"
+        "COUNTRY_CODE": "KGZ"
       }
     },
     {
@@ -5216,7 +5216,7 @@
         ]
       },
       "properties": {
-        "CODE": "GMB"
+        "COUNTRY_CODE": "GMB"
       }
     },
     {
@@ -5239,7 +5239,7 @@
         ]
       },
       "properties": {
-        "CODE": "GNB"
+        "COUNTRY_CODE": "GNB"
       }
     },
     {
@@ -5257,7 +5257,7 @@
         ]
       },
       "properties": {
-        "CODE": "GNQ"
+        "COUNTRY_CODE": "GNQ"
       }
     },
     {
@@ -5325,7 +5325,7 @@
         ]
       },
       "properties": {
-        "CODE": "UKR"
+        "COUNTRY_CODE": "UKR"
       }
     },
     {
@@ -5350,7 +5350,7 @@
         ]
       },
       "properties": {
-        "CODE": "GTM"
+        "COUNTRY_CODE": "GTM"
       }
     },
     {
@@ -5370,7 +5370,7 @@
         ]
       },
       "properties": {
-        "CODE": "GUF"
+        "COUNTRY_CODE": "GUF"
       }
     },
     {
@@ -5433,7 +5433,7 @@
         ]
       },
       "properties": {
-        "CODE": "TUR"
+        "COUNTRY_CODE": "TUR"
       }
     },
     {
@@ -5458,7 +5458,7 @@
         ]
       },
       "properties": {
-        "CODE": "GUY"
+        "COUNTRY_CODE": "GUY"
       }
     },
     {
@@ -5484,7 +5484,7 @@
         ]
       },
       "properties": {
-        "CODE": "HND"
+        "COUNTRY_CODE": "HND"
       }
     },
     {
@@ -5518,7 +5518,7 @@
         ]
       },
       "properties": {
-        "CODE": "HTI"
+        "COUNTRY_CODE": "HTI"
       }
     },
     {
@@ -5827,7 +5827,7 @@
         ]
       },
       "properties": {
-        "CODE": "IDN"
+        "COUNTRY_CODE": "IDN"
       }
     },
     {
@@ -5913,7 +5913,7 @@
         ]
       },
       "properties": {
-        "CODE": "IND"
+        "COUNTRY_CODE": "IND"
       }
     },
     {
@@ -5962,7 +5962,7 @@
         ]
       },
       "properties": {
-        "CODE": "IRN"
+        "COUNTRY_CODE": "IRN"
       }
     },
     {
@@ -5993,7 +5993,7 @@
         ]
       },
       "properties": {
-        "CODE": "IRQ"
+        "COUNTRY_CODE": "IRQ"
       }
     },
     {
@@ -6011,7 +6011,7 @@
         ]
       },
       "properties": {
-        "CODE": "JAM"
+        "COUNTRY_CODE": "JAM"
       }
     },
     {
@@ -6036,7 +6036,7 @@
         ]
       },
       "properties": {
-        "CODE": "JOR"
+        "COUNTRY_CODE": "JOR"
       }
     },
     {
@@ -6140,7 +6140,7 @@
         ]
       },
       "properties": {
-        "CODE": "JPN"
+        "COUNTRY_CODE": "JPN"
       }
     },
     {
@@ -6165,7 +6165,7 @@
         ]
       },
       "properties": {
-        "CODE": "KEN"
+        "COUNTRY_CODE": "KEN"
       }
     },
     {
@@ -6193,7 +6193,7 @@
         ]
       },
       "properties": {
-        "CODE": "KHM"
+        "COUNTRY_CODE": "KHM"
       }
     },
     {
@@ -6247,7 +6247,7 @@
         ]
       },
       "properties": {
-        "CODE": "TKM"
+        "COUNTRY_CODE": "TKM"
       }
     },
     {
@@ -6279,7 +6279,7 @@
         ]
       },
       "properties": {
-        "CODE": "KOR"
+        "COUNTRY_CODE": "KOR"
       }
     },
     {
@@ -6300,7 +6300,7 @@
         ]
       },
       "properties": {
-        "CODE": "KWT"
+        "COUNTRY_CODE": "KWT"
       }
     },
     {
@@ -6334,7 +6334,7 @@
         ]
       },
       "properties": {
-        "CODE": "LAO"
+        "COUNTRY_CODE": "LAO"
       }
     },
     {
@@ -6352,7 +6352,7 @@
         ]
       },
       "properties": {
-        "CODE": "LBN"
+        "COUNTRY_CODE": "LBN"
       }
     },
     {
@@ -6372,7 +6372,7 @@
         ]
       },
       "properties": {
-        "CODE": "LBR"
+        "COUNTRY_CODE": "LBR"
       }
     },
     {
@@ -6400,7 +6400,7 @@
         ]
       },
       "properties": {
-        "CODE": "LBY"
+        "COUNTRY_CODE": "LBY"
       }
     },
     {
@@ -6488,7 +6488,7 @@
         ]
       },
       "properties": {
-        "CODE": "SWE"
+        "COUNTRY_CODE": "SWE"
       }
     },
     {
@@ -6508,7 +6508,7 @@
         ]
       },
       "properties": {
-        "CODE": "LKA"
+        "COUNTRY_CODE": "LKA"
       }
     },
     {
@@ -6526,7 +6526,7 @@
         ]
       },
       "properties": {
-        "CODE": "LSO"
+        "COUNTRY_CODE": "LSO"
       }
     },
     {
@@ -6554,7 +6554,7 @@
         ]
       },
       "properties": {
-        "CODE": "MAR"
+        "COUNTRY_CODE": "MAR"
       }
     },
     {
@@ -6596,7 +6596,7 @@
         ]
       },
       "properties": {
-        "CODE": "MDG"
+        "COUNTRY_CODE": "MDG"
       }
     },
     {
@@ -6666,7 +6666,7 @@
         ]
       },
       "properties": {
-        "CODE": "MEX"
+        "COUNTRY_CODE": "MEX"
       }
     },
     {
@@ -6703,7 +6703,7 @@
         ]
       },
       "properties": {
-        "CODE": "MLI"
+        "COUNTRY_CODE": "MLI"
       }
     },
     {
@@ -6781,7 +6781,7 @@
         ]
       },
       "properties": {
-        "CODE": "MMR"
+        "COUNTRY_CODE": "MMR"
       }
     },
     {
@@ -6824,7 +6824,7 @@
         ]
       },
       "properties": {
-        "CODE": "MNG"
+        "COUNTRY_CODE": "MNG"
       }
     },
     {
@@ -6856,7 +6856,7 @@
         ]
       },
       "properties": {
-        "CODE": "SVN"
+        "COUNTRY_CODE": "SVN"
       }
     },
     {
@@ -6895,7 +6895,7 @@
         ]
       },
       "properties": {
-        "CODE": "MOZ"
+        "COUNTRY_CODE": "MOZ"
       }
     },
     {
@@ -6930,7 +6930,7 @@
         ]
       },
       "properties": {
-        "CODE": "MRT"
+        "COUNTRY_CODE": "MRT"
       }
     },
     {
@@ -6953,7 +6953,7 @@
         ]
       },
       "properties": {
-        "CODE": "SVK"
+        "COUNTRY_CODE": "SVK"
       }
     },
     {
@@ -6980,7 +6980,7 @@
         ]
       },
       "properties": {
-        "CODE": "SRB"
+        "COUNTRY_CODE": "SRB"
       }
     },
     {
@@ -7005,7 +7005,7 @@
         ]
       },
       "properties": {
-        "CODE": "MWI"
+        "COUNTRY_CODE": "MWI"
       }
     },
     {
@@ -7062,7 +7062,7 @@
         ]
       },
       "properties": {
-        "CODE": "MYS"
+        "COUNTRY_CODE": "MYS"
       }
     },
     {
@@ -7087,7 +7087,7 @@
         ]
       },
       "properties": {
-        "CODE": "NAM"
+        "COUNTRY_CODE": "NAM"
       }
     },
     {
@@ -7104,7 +7104,7 @@
         ]
       },
       "properties": {
-        "CODE": "NCL"
+        "COUNTRY_CODE": "NCL"
       }
     },
     {
@@ -7132,7 +7132,7 @@
         ]
       },
       "properties": {
-        "CODE": "NER"
+        "COUNTRY_CODE": "NER"
       }
     },
     {
@@ -7166,7 +7166,7 @@
         ]
       },
       "properties": {
-        "CODE": "NGA"
+        "COUNTRY_CODE": "NGA"
       }
     },
     {
@@ -7186,7 +7186,7 @@
         ]
       },
       "properties": {
-        "CODE": "NIC"
+        "COUNTRY_CODE": "NIC"
       }
     },
     {
@@ -7209,7 +7209,7 @@
         ]
       },
       "properties": {
-        "CODE": "NPL"
+        "COUNTRY_CODE": "NPL"
       }
     },
     {
@@ -7279,7 +7279,7 @@
         ]
       },
       "properties": {
-        "CODE": "NZL"
+        "COUNTRY_CODE": "NZL"
       }
     },
     {
@@ -7302,7 +7302,7 @@
         ]
       },
       "properties": {
-        "CODE": "OMN"
+        "COUNTRY_CODE": "OMN"
       }
     },
     {
@@ -7343,7 +7343,7 @@
         ]
       },
       "properties": {
-        "CODE": "PAK"
+        "COUNTRY_CODE": "PAK"
       }
     },
     {
@@ -7371,7 +7371,7 @@
         ]
       },
       "properties": {
-        "CODE": "PAN"
+        "COUNTRY_CODE": "PAN"
       }
     },
     {
@@ -7408,7 +7408,7 @@
         ]
       },
       "properties": {
-        "CODE": "PER"
+        "COUNTRY_CODE": "PER"
       }
     },
     {
@@ -7572,7 +7572,7 @@
         ]
       },
       "properties": {
-        "CODE": "PHL"
+        "COUNTRY_CODE": "PHL"
       }
     },
     {
@@ -8860,7 +8860,7 @@
         ]
       },
       "properties": {
-        "CODE": "RUS"
+        "COUNTRY_CODE": "RUS"
       }
     },
     {
@@ -8890,7 +8890,7 @@
         ]
       },
       "properties": {
-        "CODE": "PRK"
+        "COUNTRY_CODE": "PRK"
       }
     },
     {
@@ -8917,7 +8917,7 @@
         ]
       },
       "properties": {
-        "CODE": "PRY"
+        "COUNTRY_CODE": "PRY"
       }
     },
     {
@@ -8935,7 +8935,7 @@
         ]
       },
       "properties": {
-        "CODE": "PSE"
+        "COUNTRY_CODE": "PSE"
       }
     },
     {
@@ -8962,7 +8962,7 @@
         ]
       },
       "properties": {
-        "CODE": "ROU"
+        "COUNTRY_CODE": "ROU"
       }
     },
     {
@@ -8981,7 +8981,7 @@
         ]
       },
       "properties": {
-        "CODE": "QAT"
+        "COUNTRY_CODE": "QAT"
       }
     },
     {
@@ -9000,7 +9000,7 @@
         ]
       },
       "properties": {
-        "CODE": "RWA"
+        "COUNTRY_CODE": "RWA"
       }
     },
     {
@@ -9042,7 +9042,7 @@
         ]
       },
       "properties": {
-        "CODE": "SAU"
+        "COUNTRY_CODE": "SAU"
       }
     },
     {
@@ -9080,7 +9080,7 @@
         ]
       },
       "properties": {
-        "CODE": "SDN"
+        "COUNTRY_CODE": "SDN"
       }
     },
     {
@@ -9118,7 +9118,7 @@
         ]
       },
       "properties": {
-        "CODE": "SEN"
+        "COUNTRY_CODE": "SEN"
       }
     },
     {
@@ -9135,7 +9135,7 @@
         ]
       },
       "properties": {
-        "CODE": "SLB"
+        "COUNTRY_CODE": "SLB"
       }
     },
     {
@@ -9161,7 +9161,7 @@
         ]
       },
       "properties": {
-        "CODE": "SLE"
+        "COUNTRY_CODE": "SLE"
       }
     },
     {
@@ -9180,7 +9180,7 @@
         ]
       },
       "properties": {
-        "CODE": "SLV"
+        "COUNTRY_CODE": "SLV"
       }
     },
     {
@@ -9206,7 +9206,7 @@
         ]
       },
       "properties": {
-        "CODE": "SOM"
+        "COUNTRY_CODE": "SOM"
       }
     },
     {
@@ -9236,7 +9236,7 @@
         ]
       },
       "properties": {
-        "CODE": "SSD"
+        "COUNTRY_CODE": "SSD"
       }
     },
     {
@@ -9257,7 +9257,7 @@
         ]
       },
       "properties": {
-        "CODE": "PRT"
+        "COUNTRY_CODE": "PRT"
       }
     },
     {
@@ -9278,7 +9278,7 @@
         ]
       },
       "properties": {
-        "CODE": "SUR"
+        "COUNTRY_CODE": "SUR"
       }
     },
     {
@@ -9296,7 +9296,7 @@
         ]
       },
       "properties": {
-        "CODE": "SWZ"
+        "COUNTRY_CODE": "SWZ"
       }
     },
     {
@@ -9322,7 +9322,7 @@
         ]
       },
       "properties": {
-        "CODE": "SYR"
+        "COUNTRY_CODE": "SYR"
       }
     },
     {
@@ -9353,7 +9353,7 @@
         ]
       },
       "properties": {
-        "CODE": "POL"
+        "COUNTRY_CODE": "POL"
       }
     },
     {
@@ -9383,7 +9383,7 @@
         ]
       },
       "properties": {
-        "CODE": "TCD"
+        "COUNTRY_CODE": "TCD"
       }
     },
     {
@@ -9404,7 +9404,7 @@
         ]
       },
       "properties": {
-        "CODE": "TGO"
+        "COUNTRY_CODE": "TGO"
       }
     },
     {
@@ -9453,7 +9453,7 @@
         ]
       },
       "properties": {
-        "CODE": "THA"
+        "COUNTRY_CODE": "THA"
       }
     },
     {
@@ -9470,7 +9470,7 @@
         ]
       },
       "properties": {
-        "CODE": "TLS"
+        "COUNTRY_CODE": "TLS"
       }
     },
     {
@@ -9889,7 +9889,7 @@
         ]
       },
       "properties": {
-        "CODE": "NOR"
+        "COUNTRY_CODE": "NOR"
       }
     },
     {
@@ -9915,7 +9915,7 @@
         ]
       },
       "properties": {
-        "CODE": "TUN"
+        "COUNTRY_CODE": "TUN"
       }
     },
     {
@@ -9944,7 +9944,7 @@
         ]
       },
       "properties": {
-        "CODE": "TZA"
+        "COUNTRY_CODE": "TZA"
       }
     },
     {
@@ -9966,7 +9966,7 @@
         ]
       },
       "properties": {
-        "CODE": "UGA"
+        "COUNTRY_CODE": "UGA"
       }
     },
     {
@@ -9992,7 +9992,7 @@
         ]
       },
       "properties": {
-        "CODE": "URY"
+        "COUNTRY_CODE": "URY"
       }
     },
     {
@@ -10659,7 +10659,7 @@
         ]
       },
       "properties": {
-        "CODE": "USA"
+        "COUNTRY_CODE": "USA"
       }
     },
     {
@@ -10711,7 +10711,7 @@
         ]
       },
       "properties": {
-        "CODE": "NLD"
+        "COUNTRY_CODE": "NLD"
       }
     },
     {
@@ -10767,7 +10767,7 @@
         ]
       },
       "properties": {
-        "CODE": "VEN"
+        "COUNTRY_CODE": "VEN"
       }
     },
     {
@@ -10811,7 +10811,7 @@
         ]
       },
       "properties": {
-        "CODE": "VNM"
+        "COUNTRY_CODE": "VNM"
       }
     },
     {
@@ -10828,7 +10828,7 @@
         ]
       },
       "properties": {
-        "CODE": "VUT"
+        "COUNTRY_CODE": "VUT"
       }
     },
     {
@@ -10847,7 +10847,7 @@
         ]
       },
       "properties": {
-        "CODE": "MNE"
+        "COUNTRY_CODE": "MNE"
       }
     },
     {
@@ -10872,7 +10872,7 @@
         ]
       },
       "properties": {
-        "CODE": "YEM"
+        "COUNTRY_CODE": "YEM"
       }
     },
     {
@@ -10915,7 +10915,7 @@
         ]
       },
       "properties": {
-        "CODE": "ZAF"
+        "COUNTRY_CODE": "ZAF"
       }
     },
     {
@@ -10948,7 +10948,7 @@
         ]
       },
       "properties": {
-        "CODE": "ZMB"
+        "COUNTRY_CODE": "ZMB"
       }
     },
     {
@@ -10969,7 +10969,7 @@
         ]
       },
       "properties": {
-        "CODE": "ZWE"
+        "COUNTRY_CODE": "ZWE"
       }
     },
     {
@@ -11014,7 +11014,7 @@
         ]
       },
       "properties": {
-        "CODE": "COD"
+        "COUNTRY_CODE": "COD"
       }
     },
     {
@@ -11045,7 +11045,7 @@
         ]
       },
       "properties": {
-        "CODE": "COG"
+        "COUNTRY_CODE": "COG"
       }
     },
     {
@@ -11134,7 +11134,7 @@
         ]
       },
       "properties": {
-        "CODE": "PNG"
+        "COUNTRY_CODE": "PNG"
       }
     },
     {
@@ -11159,7 +11159,7 @@
         ]
       },
       "properties": {
-        "CODE": "CIV"
+        "COUNTRY_CODE": "CIV"
       }
     },
     {
@@ -11181,7 +11181,7 @@
         ]
       },
       "properties": {
-        "CODE": "ALB"
+        "COUNTRY_CODE": "ALB"
       }
     },
     {
@@ -11206,7 +11206,7 @@
         ]
       },
       "properties": {
-        "CODE": "ARM"
+        "COUNTRY_CODE": "ARM"
       }
     },
     {
@@ -11230,7 +11230,7 @@
         ]
       },
       "properties": {
-        "CODE": "AUT"
+        "COUNTRY_CODE": "AUT"
       }
     },
     {
@@ -11264,7 +11264,7 @@
         ]
       },
       "properties": {
-        "CODE": "AZE"
+        "COUNTRY_CODE": "AZE"
       }
     },
     {
@@ -11286,7 +11286,7 @@
         ]
       },
       "properties": {
-        "CODE": "BEL"
+        "COUNTRY_CODE": "BEL"
       }
     },
     {
@@ -11312,7 +11312,7 @@
         ]
       },
       "properties": {
-        "CODE": "BGR"
+        "COUNTRY_CODE": "BGR"
       }
     },
     {
@@ -11340,7 +11340,7 @@
         ]
       },
       "properties": {
-        "CODE": "BIH"
+        "COUNTRY_CODE": "BIH"
       }
     },
     {
@@ -11366,7 +11366,7 @@
         ]
       },
       "properties": {
-        "CODE": "BLR"
+        "COUNTRY_CODE": "BLR"
       }
     },
     {
@@ -11391,7 +11391,7 @@
         ]
       },
       "properties": {
-        "CODE": "CHE"
+        "COUNTRY_CODE": "CHE"
       }
     },
     {
@@ -11408,7 +11408,7 @@
         ]
       },
       "properties": {
-        "CODE": "CYP"
+        "COUNTRY_CODE": "CYP"
       }
     },
     {
@@ -11432,7 +11432,7 @@
         ]
       },
       "properties": {
-        "CODE": "CZE"
+        "COUNTRY_CODE": "CZE"
       }
     },
     {
@@ -11481,7 +11481,7 @@
         ]
       },
       "properties": {
-        "CODE": "DEU"
+        "COUNTRY_CODE": "DEU"
       }
     },
     {
@@ -11553,7 +11553,7 @@
         ]
       },
       "properties": {
-        "CODE": "DNK"
+        "COUNTRY_CODE": "DNK"
       }
     },
     {
@@ -11585,7 +11585,7 @@
         ]
       },
       "properties": {
-        "CODE": "ESP"
+        "COUNTRY_CODE": "ESP"
       }
     },
     {
@@ -11625,7 +11625,7 @@
         ]
       },
       "properties": {
-        "CODE": "EST"
+        "COUNTRY_CODE": "EST"
       }
     },
     {
@@ -11696,7 +11696,7 @@
         ]
       },
       "properties": {
-        "CODE": "FIN"
+        "COUNTRY_CODE": "FIN"
       }
     },
     {
@@ -11762,7 +11762,7 @@
         ]
       },
       "properties": {
-        "CODE": "FRA"
+        "COUNTRY_CODE": "FRA"
       }
     },
     {
@@ -11924,7 +11924,7 @@
         ]
       },
       "properties": {
-        "CODE": "GBR"
+        "COUNTRY_CODE": "GBR"
       }
     },
     {
@@ -11946,7 +11946,7 @@
         ]
       },
       "properties": {
-        "CODE": "GEO"
+        "COUNTRY_CODE": "GEO"
       }
     },
     {
@@ -12048,7 +12048,7 @@
         ]
       },
       "properties": {
-        "CODE": "GRC"
+        "COUNTRY_CODE": "GRC"
       }
     },
     {
@@ -12111,7 +12111,7 @@
         ]
       },
       "properties": {
-        "CODE": "HRV"
+        "COUNTRY_CODE": "HRV"
       }
     },
     {
@@ -12138,7 +12138,7 @@
         ]
       },
       "properties": {
-        "CODE": "HUN"
+        "COUNTRY_CODE": "HUN"
       }
     },
     {
@@ -12183,7 +12183,7 @@
         ]
       },
       "properties": {
-        "CODE": "IRL"
+        "COUNTRY_CODE": "IRL"
       }
     },
     {
@@ -12249,7 +12249,7 @@
         ]
       },
       "properties": {
-        "CODE": "ISL"
+        "COUNTRY_CODE": "ISL"
       }
     },
     {
@@ -12274,7 +12274,7 @@
         ]
       },
       "properties": {
-        "CODE": "ISR"
+        "COUNTRY_CODE": "ISR"
       }
     },
     {
@@ -12348,7 +12348,7 @@
         ]
       },
       "properties": {
-        "CODE": "ITA"
+        "COUNTRY_CODE": "ITA"
       }
     },
     {
@@ -12431,7 +12431,7 @@
         ]
       },
       "properties": {
-        "CODE": "KAZ"
+        "COUNTRY_CODE": "KAZ"
       }
     },
     {
@@ -12456,7 +12456,7 @@
         ]
       },
       "properties": {
-        "CODE": "LTU"
+        "COUNTRY_CODE": "LTU"
       }
     },
     {
@@ -12473,7 +12473,7 @@
         ]
       },
       "properties": {
-        "CODE": "LUX"
+        "COUNTRY_CODE": "LUX"
       }
     },
     {
@@ -12496,7 +12496,7 @@
         ]
       },
       "properties": {
-        "CODE": "LVA"
+        "COUNTRY_CODE": "LVA"
       }
     },
     {
@@ -12517,7 +12517,7 @@
         ]
       },
       "properties": {
-        "CODE": "MDA"
+        "COUNTRY_CODE": "MDA"
       }
     },
     {
@@ -12537,7 +12537,7 @@
         ]
       },
       "properties": {
-        "CODE": "MKD"
+        "COUNTRY_CODE": "MKD"
       }
     }
   ]
