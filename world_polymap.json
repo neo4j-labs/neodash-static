@@ -17669,9 +17669,9 @@
             "type": "Feature",
             "properties": {
                 "name": "N. Cyprus",
-                "iso_a2": "-99",
-                "iso_a3": "-99",
-                "iso_n3": "-99"
+                "iso_a2": "CY",
+                "iso_a3": "CYP",
+                "iso_n3": "196"
             },
             "geometry": {
                 "type": "Polygon",
@@ -24029,8 +24029,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Somaliland",
-                "iso_a2": "-99",
-                "iso_a3": "-99",
+                "iso_a2": "XS",
+                "iso_a3": "XS",
                 "iso_n3": "-99"
             },
             "geometry": {
@@ -32353,9 +32353,9 @@
             "type": "Feature",
             "properties": {
                 "name": "France",
-                "iso_a2": "-99",
-                "iso_a3": "-99",
-                "iso_n3": "-99"
+                "iso_a2": "FR",
+                "iso_a3": "FRA",
+                "iso_n3": "250"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36521,9 +36521,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Norway",
-                "iso_a2": "-99",
-                "iso_a3": "-99",
-                "iso_n3": "-99"
+                "iso_a2": "NO",
+                "iso_a3": "NOR",
+                "iso_n3": "578"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -37583,8 +37583,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kosovo",
-                "iso_a2": "-99",
-                "iso_a3": "-99",
+                "iso_a2": "XK",
+                "iso_a3": "XXK",
                 "iso_n3": "-99"
             },
             "geometry": {
